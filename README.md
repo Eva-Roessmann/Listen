@@ -9,7 +9,7 @@
 | **Typ** | Schulprojekt |
 | **Klasse** | 1aAPC |
 | **Schuljahr** | 2025/26 |
-| **Abgabedatum** | 02.06.2026 |
+| **Abgabedatum** | 24.06.2026 |
 | **Autor** | Rößmann Eva |
 | **Lehrer** | G. Jarz |
 | **Fach** | Applikationsentwicklung |
